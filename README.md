@@ -22,7 +22,7 @@
 <br />
 <br />
 
-[![Swox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swwox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Swox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swwox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
