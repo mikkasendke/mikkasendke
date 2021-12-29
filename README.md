@@ -22,8 +22,7 @@
 <br />
 <br />
 
-
-<img align="left" alt="Swwox's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Swwox&show_icons=true&hide_border=true" />
+[![Swox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swwox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
