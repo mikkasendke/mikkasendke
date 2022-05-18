@@ -1,8 +1,8 @@
-### Hello I'm Swox and this is my GitHub proflie
+### Hello there!
 
 <br />
 
-## I'm a Student and free time programmer
+## ye ye ye
 
 
 
